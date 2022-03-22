@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pissedoffgypsy
+- 👀 I’m interested in learning to code, in order to make $$ and change my life for the better. I have no heart or joy in this.
+- 🌱 I’m currently learning on the odin project, but am just starting out, in what I hope will be a lifetime of success.
+- 💞️ Eventually I am looking to either start my own project, or to be able to provide the neccesary skills to work and help others
